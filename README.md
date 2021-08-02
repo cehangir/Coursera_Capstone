@@ -1,3 +1,4 @@
 # Coursera_Capstone
-Capstone Project Assignments /n
+Capstone Project Assignments 
+
 Week 1 - Capstone Project Notebook.ipynb
